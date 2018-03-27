@@ -74,7 +74,7 @@
 
 </script>
 <body onload = "search()">     
-<input id = "business_title" type = "text" placeholder"Enter complaint">
+<input id = "business_title" type = "text" placeholder"Enter job">
     <button onclick = "business_title()"> display </button>
 
 
